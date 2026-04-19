@@ -1,0 +1,1144 @@
+{
+  "태백시": {
+    "bokju": 138.5,
+    "gb_rehab": 143.5,
+    "micro": 168.4,
+    "galul_gumi": 194.9
+  },
+  "정선군": {
+    "bokju": 197.9,
+    "myeongpum": 194.2,
+    "gb_rehab": 194.2,
+    "gw_rehab": 176.8
+  },
+  "영월군": {
+    "micro": 93.1,
+    "bokju": 135.4,
+    "myeongpum": 131.7,
+    "gw_rehab": 140.4
+  },
+  "평창군": {
+    "younggwang": 102.5,
+    "gb_rehab": 161.7,
+    "bokju": 165.5,
+    "myeongpum": 161.8
+  },
+  "횡성군": {
+    "younggwang": 37.4,
+    "gw_rehab": 57.8,
+    "ntrh": 67.4,
+    "micro": 84.0,
+    "rochester": 69.8
+  },
+  "인제군": {
+    "gw_rehab": 99.1,
+    "younggwang": 121.4,
+    "ntrh": 123.4,
+    "micro": 168.0,
+    "haesung": 136.7,
+    "rochester": 136.2
+  },
+  "양구군": {
+    "gw_rehab": 71.3,
+    "younggwang": 132.6,
+    "ntrh": 134.8,
+    "haesung": 148.1,
+    "rochester": 147.6,
+    "src": 149.1
+  },
+  "화천군": {
+    "gw_rehab": 58.7,
+    "ntrh": 122.2,
+    "younggwang": 119.9,
+    "haesung": 135.4,
+    "rochester": 134.9,
+    "src": 136.4
+  },
+  "철원군": {
+    "gw_rehab": 138.6,
+    "nri": 97.3,
+    "pogeun": 107.3,
+    "src_seoul": 114.0,
+    "songpa": 102.3
+  },
+  "고성군(강원)": {
+    "gw_rehab": 148.3,
+    "younggwang": 174.7,
+    "micro": 221.3,
+    "haesung": 185.8,
+    "rochester": 185.4
+  },
+  "양양군": {
+    "gw_rehab": 94.8,
+    "younggwang": 121.2,
+    "micro": 167.8,
+    "gb_rehab": 205.1
+  },
+  "홍천군": {
+    "younggwang": 56.3,
+    "ntrh": 67.4,
+    "haesung": 85.7,
+    "rochester": 86.0,
+    "src": 86.5
+  },
+  "춘천시": {
+    "gw_rehab": 0.0,
+    "ntrh": 86.0,
+    "younggwang": 80.0,
+    "haesung": 99.3,
+    "src": 100.3
+  },
+  "속초시": {
+    "gw_rehab": 116.4,
+    "younggwang": 142.8,
+    "ntrh": 140.7,
+    "micro": 189.5,
+    "haesung": 154.0,
+    "rochester": 153.5
+  },
+  "삼척시": {
+    "myeongpum": 217.0,
+    "gb_rehab": 217.2,
+    "younggwang": 138.7,
+    "micro": 185.3,
+    "gw_rehab": 160.7
+  },
+  "동해시": {
+    "bokju": 216.0,
+    "myeongpum": 211.8,
+    "younggwang": 127.9,
+    "micro": 174.5,
+    "gw_rehab": 149.9
+  },
+  "제천시": {
+    "micro": 51.1,
+    "younggwang": 46.8,
+    "gb_rehab": 88.4,
+    "myeongpum": 88.5,
+    "bokju": 92.2,
+    "ntrh": 87.4
+  },
+  "단양군": {
+    "gb_rehab": 78.3,
+    "micro": 67.8,
+    "myeongpum": 78.4,
+    "bokju": 82.1,
+    "younggwang": 72.3,
+    "galul_gumi": 129.7
+  },
+  "괴산군": {
+    "micro": 63.5,
+    "cnc": 62.1,
+    "cello": 65.1,
+    "younggwang": 107.1,
+    "workrun": 90.8,
+    "davinci": 98.7
+  },
+  "옥천군": {
+    "workrun": 17.5,
+    "davinci": 31.0,
+    "dj_rehab": 40.1,
+    "yuseong": 34.6,
+    "cnc": 61.6
+  },
+  "영동군": {
+    "workrun": 52.6,
+    "dj_rehab": 75.2,
+    "davinci": 66.1,
+    "yuseong": 69.7,
+    "cnc": 96.7
+  },
+  "서산시": {
+    "sg_samsung": 79.3,
+    "cheonan_rehab": 96.9,
+    "seosong": 101.9,
+    "michuhol": 101.7,
+    "bradam": 110.8
+  },
+  "태안군": {
+    "sg_samsung": 106.2,
+    "iam": 126.3,
+    "cheonan_rehab": 123.9
+  },
+  "홍성군": {
+    "sg_samsung": 67.8,
+    "iam": 87.9,
+    "cheonan_rehab": 87.4,
+    "yuseong": 83.5,
+    "barowel": 104.5
+  },
+  "무주군": {
+    "dj_wellness": 63.7,
+    "workrun": 60.1,
+    "dj_rehab": 77.8,
+    "davinci": 73.6,
+    "yuseong": 71.6
+  },
+  "장수군": {
+    "dreamsol": 69.3,
+    "dj_wellness": 85.4,
+    "dj_rehab": 99.6,
+    "workrun": 81.9,
+    "yuseong": 93.4,
+    "davinci": 95.4,
+    "barun": 92.4,
+    "wooam": 107.0,
+    "gj365": 109.8,
+    "honam": 111.2,
+    "huiyeon": 103.4,
+    "gumi_top": 135.1
+  },
+  "진안군": {
+    "dj_rehab": 98.8,
+    "workrun": 81.1,
+    "yuseong": 84.5,
+    "davinci": 94.6,
+    "dreamsol": 48.1,
+    "dj_wellness": 84.6,
+    "wooam": 114.1,
+    "gj365": 108.7,
+    "cnc": 125.2,
+    "cello": 114.0,
+    "honam": 102.8,
+    "barun": 91.6
+  },
+  "신안군": {
+    "honam": 107.4,
+    "gj365": 117.1,
+    "wooam": 130.2,
+    "jeju_rehab": 367.9,
+    "dreamsol": 187.7,
+    "yuseong": 217.2
+  },
+  "진도군": {
+    "honam": 132.4,
+    "gj365": 142.1,
+    "wooam": 155.2,
+    "jeju_rehab": 281.2,
+    "dreamsol": 212.1,
+    "barun": 209.0
+  },
+  "완도군": {
+    "jeju_rehab": 194.2,
+    "wooam": 178.9,
+    "gj365": 175.5,
+    "honam": 165.8,
+    "dreamsol": 238.1
+  },
+  "해남군": {
+    "honam": 112.5,
+    "gj365": 122.2,
+    "jeju_rehab": 250.7,
+    "dreamsol": 190.0,
+    "barun": 161.3
+  },
+  "고흥군": {
+    "wooam": 129.2,
+    "gj365": 143.1,
+    "honam": 147.5,
+    "barun": 126.3,
+    "huiyeon": 135.6,
+    "dreamsol": 155.0
+  },
+  "울진군": {
+    "bokju": 164.7,
+    "gb_rehab": 169.8,
+    "galul_gumi": 221.7,
+    "gumi_top": 222.1
+  },
+  "봉화군": {
+    "bokju": 72.1,
+    "myeongpum": 73.0,
+    "micro": 105.8,
+    "galul_gumi": 125.8,
+    "gumi_top": 126.2
+  },
+  "영양군": {
+    "bokju": 90.5,
+    "myeongpum": 90.9,
+    "gb_rehab": 106.6,
+    "galul_gumi": 129.8,
+    "mirae_dg": 137.2,
+    "dg_gyeong": 121.6
+  },
+  "청송군": {
+    "bokju": 54.0,
+    "myeongpum": 55.1,
+    "gb_rehab": 68.5,
+    "mirae_dg": 99.1,
+    "namsan": 101.3
+  },
+  "영덕군": {
+    "bokju": 79.0,
+    "myeongpum": 80.0,
+    "bukuls": 127.3,
+    "mirae_dg": 113.6,
+    "better_dg": 117.9
+  },
+  "포항시": {
+    "bukuls": 84.9,
+    "mirae_dg": 78.8,
+    "better_dg": 83.1,
+    "dhcu": 79.5,
+    "dg_gyeong": 78.4
+  },
+  "울릉군": {
+    "bokju": 327.2,
+    "myeongpum": 328.3,
+    "gb_rehab": 341.7,
+    "mirae_dg": 302.1
+  },
+  "합천군": {
+    "barun": 79.4,
+    "k_hosp": 65.5,
+    "laebom": 97.3,
+    "huiyeon": 102.7,
+    "dg_gyeong": 67.9
+  },
+  "거창군": {
+    "barun": 78.0,
+    "k_hosp": 66.2,
+    "gumi_top": 87.7,
+    "dg_gyeong": 68.7,
+    "dhcu": 70.5
+  },
+  "함양군": {
+    "barun": 66.3,
+    "huiyeon": 77.3,
+    "dj_wellness": 98.2,
+    "gumi_top": 107.3
+  },
+  "산청군": {
+    "huiyeon": 60.4,
+    "laebom": 121.8,
+    "k_hosp": 89.9,
+    "yeason": 97.6,
+    "dreamsol": 89.0
+  },
+  "남해군": {
+    "barun": 73.6,
+    "huiyeon": 82.8,
+    "laebom": 141.1,
+    "gj365": 127.6
+  },
+  "제주시": {
+    "jeju_rehab": 0.0,
+    "wooam": 368.3,
+    "honam": 355.1,
+    "barun": 398.7,
+    "huiyeon": 408.0
+  },
+  "서귀포시": {
+    "jeju_rehab": 75.7,
+    "wooam": 386.6,
+    "honam": 392.6,
+    "barun": 417.0,
+    "huiyeon": 426.3
+  },
+  "구례군": {
+    "wooam": 83.1,
+    "barun": 85.1,
+    "honam": 87.3,
+    "dreamsol": 84.3,
+    "huiyeon": 94.4
+  },
+  "곡성군": {
+    "gj365": 61.1,
+    "dreamsol": 77.9,
+    "barun": 108.9,
+    "huiyeon": 118.2
+  },
+  "수원시": {
+    "barowel": 0.0,
+    "suwon_centum": 15.2,
+    "hunu": 15.3,
+    "kaiser": 31.9,
+    "bundang_best": 43.2,
+    "lin": 43.2
+  },
+  "고양시": {
+    "ilsan_center": 2.9,
+    "ilsan_gospel": 17.3,
+    "myungji": 29.7,
+    "src_seoul": 25.4,
+    "bignamu": 29.7
+  },
+  "용인시": {
+    "kaiser": 31.1,
+    "hunu": 29.4,
+    "bundang_best": 44.9,
+    "barowel": 36.0,
+    "lin": 44.6
+  },
+  "성남시": {
+    "bethesda": 10.6,
+    "lin": 16.2,
+    "bundang_best": 18.3,
+    "kaiser": 27.4
+  },
+  "부천시": {
+    "michuhol": 30.0,
+    "myungji": 27.5,
+    "seosong": 34.6
+  },
+  "화성시": {
+    "suwon_centum": 47.3,
+    "barowel": 46.0,
+    "yunkang": 44.6,
+    "hunu": 44.2,
+    "seosong": 46.4
+  },
+  "안산시": {
+    "yunkang": 38.9,
+    "michuhol": 41.9,
+    "suwon_centum": 45.3,
+    "first": 51.9,
+    "barowel": 52.2
+  },
+  "남양주시": {
+    "songpa": 42.3,
+    "nri": 38.9,
+    "pogeun": 49.0,
+    "rochester": 43.9
+  },
+  "안양시": {
+    "yunkang": 10.2,
+    "suwon_centum": 33.9,
+    "zenith": 37.1,
+    "first": 43.2,
+    "hunu": 33.9,
+    "barowel": 47.7
+  },
+  "평택시": {
+    "sg_samsung": 53.7,
+    "barowel": 57.3,
+    "hunu": 50.7,
+    "suwon_centum": 56.7
+  },
+  "시흥시": {
+    "yunkang": 29.2,
+    "michuhol": 30.2,
+    "seosong": 30.4,
+    "first": 43.6,
+    "master": 37.7,
+    "bignamu": 51.4
+  },
+  "파주시": {
+    "ilsan_gospel": 23.9,
+    "ilsan_center": 21.3,
+    "src_seoul": 36.2,
+    "myungji": 41.1,
+    "bignamu": 34.1,
+    "master": 38.5
+  },
+  "의정부시": {
+    "nri": 41.5,
+    "src_seoul": 40.8,
+    "pogeun": 51.5,
+    "roi": 51.6,
+    "zenith": 57.4
+  },
+  "김포시": {
+    "ilsan_gospel": 33.0,
+    "master": 29.9,
+    "myungji": 31.4,
+    "ilsan_center": 25.0,
+    "bignamu": 32.2,
+    "michuhol": 47.1
+  },
+  "광주시": {
+    "rochester": 6.0,
+    "src": 7.5,
+    "bethesda": 34.6,
+    "bundang_best": 39.0
+  },
+  "하남시": {
+    "wirye": 30.9,
+    "songpa": 27.0,
+    "rochester": 25.0,
+    "haesung": 25.5,
+    "src": 26.5,
+    "bethesda": 39.2
+  },
+  "오산시": {
+    "barowel": 37.4,
+    "hunu": 32.7,
+    "suwon_centum": 38.7,
+    "kaiser": 37.2,
+    "bundang_best": 43.6,
+    "lin": 43.7
+  },
+  "광명시": {
+    "first": 15.6,
+    "bignamu": 32.1,
+    "myungji": 34.5,
+    "roi": 31.6,
+    "yunkang": 24.9,
+    "master": 30.2
+  },
+  "군포시": {
+    "yunkang": 16.2,
+    "suwon_centum": 31.7,
+    "barowel": 43.5,
+    "hunu": 33.4,
+    "first": 41.8,
+    "kaiser": 35.4
+  },
+  "이천시": {
+    "src": 45.4,
+    "rochester": 44.5,
+    "ntrh": 53.8,
+    "bundang_best": 63.9,
+    "kaiser": 58.2
+  },
+  "안성시": {
+    "cheonan_rehab": 49.6,
+    "iam": 52.0,
+    "sg_samsung": 68.5,
+    "barowel": 67.3,
+    "hunu": 59.3,
+    "kaiser": 55.6
+  },
+  "구리시": {
+    "songpa": 31.4,
+    "nri": 28.3,
+    "cheongdam": 30.2,
+    "zenith": 33.8,
+    "wirye": 36.9
+  },
+  "양주시": {
+    "nri": 52.3,
+    "pogeun": 62.4,
+    "hplus": 65.8,
+    "ilsan_center": 40.9,
+    "roi": 61.2
+  },
+  "포천시": {
+    "pogeun": 62.5,
+    "src_seoul": 69.2,
+    "songpa": 57.5,
+    "cheongdam": 59.4,
+    "zenith": 63.0
+  },
+  "의왕시": {
+    "suwon_centum": 19.5,
+    "yunkang": 24.4,
+    "barowel": 32.5,
+    "hunu": 22.5,
+    "kaiser": 32.6,
+    "lin": 30.4
+  },
+  "여주시": {
+    "ntrh": 40.0,
+    "younggwang": 49.8,
+    "haesung": 46.3,
+    "rochester": 49.2,
+    "src": 47.1,
+    "micro": 67.4
+  },
+  "동두천시": {
+    "src_seoul": 78.1,
+    "pogeun": 76.6,
+    "ilsan_center": 71.0,
+    "hplus": 86.4
+  },
+  "과천시": {
+    "yunkang": 20.6,
+    "zenith": 28.9,
+    "cheongdam": 33.3,
+    "lin": 22.4,
+    "hplus": 42.9,
+    "suwon_centum": 33.8
+  },
+  "양평군": {
+    "ntrh": 11.6,
+    "haesung": 46.3,
+    "rochester": 49.2,
+    "src": 47.0,
+    "songpa": 61.0
+  },
+  "가평군": {
+    "gw_rehab": 49.1,
+    "ntrh": 68.3,
+    "haesung": 81.5,
+    "rochester": 81.0,
+    "src": 82.6,
+    "songpa": 79.4
+  },
+  "연천군": {
+    "nri": 95.0,
+    "src_seoul": 111.8,
+    "ilsan_center": 96.9,
+    "ilsan_gospel": 99.6,
+    "pogeun": 105.0,
+    "hplus": 119.1
+  },
+  "강릉시": {
+    "younggwang": 104.0,
+    "gw_rehab": 126.0,
+    "bokju": 191.7,
+    "myeongpum": 188.0,
+    "micro": 150.6,
+    "gb_rehab": 187.9
+  },
+  "원주시": {
+    "younggwang": 7.6,
+    "micro": 71.4,
+    "ntrh": 67.1,
+    "haesung": 66.6,
+    "rochester": 69.5
+  },
+  "청주시": {
+    "cello": 11.0,
+    "davinci": 60.1,
+    "workrun": 52.2,
+    "dj_rehab": 65.3,
+    "yuseong": 59.9
+  },
+  "충주시": {
+    "younggwang": 77.6,
+    "cnc": 95.5,
+    "cello": 88.0,
+    "ntrh": 85.7,
+    "gb_rehab": 110.3
+  },
+  "음성군": {
+    "cello": 45.7,
+    "cnc": 54.3,
+    "cheonan_rehab": 56.1,
+    "iam": 58.5,
+    "sg_samsung": 67.9,
+    "micro": 58.2
+  },
+  "진천군": {
+    "cnc": 47.2,
+    "cheonan_rehab": 56.5,
+    "iam": 57.0,
+    "davinci": 68.3
+  },
+  "증평군": {
+    "cnc": 36.8,
+    "cello": 40.7,
+    "micro": 67.5,
+    "cheonan_rehab": 55.7,
+    "iam": 58.1,
+    "workrun": 58.5
+  },
+  "보은군": {
+    "cnc": 57.9,
+    "cello": 51.6,
+    "workrun": 54.6,
+    "dj_wellness": 70.2,
+    "davinci": 62.5,
+    "dj_rehab": 67.7
+  },
+  "천안시": {
+    "iam": 19.2,
+    "cheonan_rehab": 16.5,
+    "sg_samsung": 31.1,
+    "cello": 65.8,
+    "cnc": 72.4,
+    "barowel": 78.4
+  },
+  "아산시": {
+    "sg_samsung": 5.9,
+    "iam": 36.4,
+    "barowel": 76.6,
+    "cello": 64.4,
+    "hunu": 80.6
+  },
+  "당진시": {
+    "sg_samsung": 68.9,
+    "cheonan_rehab": 86.5,
+    "barowel": 87.6,
+    "suwon_centum": 88.4,
+    "seosong": 91.4
+  },
+  "공주시": {
+    "yuseong": 43.0,
+    "davinci": 52.2,
+    "dj_wellness": 64.7,
+    "workrun": 49.1,
+    "iam": 55.1
+  },
+  "보령시": {
+    "sg_samsung": 92.8,
+    "iam": 120.1,
+    "cheonan_rehab": 118.4,
+    "yuseong": 107.9,
+    "dreamsol": 107.8,
+    "dj_rehab": 121.5
+  },
+  "논산시": {
+    "yuseong": 54.5,
+    "dj_rehab": 67.1,
+    "dj_wellness": 61.8,
+    "davinci": 68.3,
+    "dreamsol": 61.6,
+    "workrun": 62.6
+  },
+  "계룡시": {
+    "yuseong": 29.7,
+    "dj_rehab": 43.1,
+    "dj_wellness": 37.0,
+    "davinci": 43.5,
+    "workrun": 37.8,
+    "cello": 64.6
+  },
+  "서천군": {
+    "dreamsol": 77.5,
+    "yuseong": 83.5,
+    "dj_rehab": 97.1,
+    "davinci": 92.7,
+    "dj_wellness": 105.2,
+    "sg_samsung": 97.4
+  },
+  "청양군": {
+    "sg_samsung": 64.1,
+    "iam": 84.3,
+    "cheonan_rehab": 83.8,
+    "yuseong": 84.0,
+    "dj_rehab": 97.7,
+    "davinci": 93.3
+  },
+  "부여군": {
+    "yuseong": 65.2,
+    "dj_rehab": 78.9,
+    "davinci": 74.4,
+    "dreamsol": 74.4,
+    "dj_wellness": 81.9,
+    "sg_samsung": 81.8
+  },
+  "예산군": {
+    "sg_samsung": 46.9,
+    "iam": 71.1,
+    "cheonan_rehab": 69.4,
+    "yuseong": 67.9,
+    "cello": 98.3
+  },
+  "금산군": {
+    "dj_wellness": 43.1,
+    "workrun": 39.5,
+    "dj_rehab": 57.2,
+    "davinci": 53.0,
+    "yuseong": 51.0,
+    "dreamsol": 96.5
+  },
+  "전주시": {
+    "dreamsol": 1.9,
+    "dj_wellness": 84.7,
+    "yuseong": 77.5,
+    "dj_rehab": 90.0,
+    "davinci": 91.2,
+    "workrun": 85.5
+  },
+  "익산시": {
+    "dreamsol": 63.9,
+    "yuseong": 78.3,
+    "dj_rehab": 90.9,
+    "dj_wellness": 85.6,
+    "davinci": 92.1,
+    "workrun": 86.4
+  },
+  "군산시": {
+    "dreamsol": 74.6,
+    "yuseong": 92.6,
+    "dj_rehab": 106.3,
+    "dj_wellness": 111.3,
+    "davinci": 101.9,
+    "honam": 96.9
+  },
+  "정읍시": {
+    "dreamsol": 64.8,
+    "honam": 54.8,
+    "gj365": 60.6,
+    "wooam": 68.0,
+    "yuseong": 92.4,
+    "dj_wellness": 99.7
+  },
+  "남원시": {
+    "dreamsol": 66.0,
+    "wooam": 62.3,
+    "gj365": 65.0,
+    "honam": 66.5,
+    "barun": 85.8,
+    "dj_wellness": 117.7
+  },
+  "김제시": {
+    "dreamsol": 58.3,
+    "honam": 83.9,
+    "wooam": 95.5,
+    "yuseong": 87.8,
+    "dj_rehab": 100.3
+  },
+  "완주군": {
+    "dreamsol": 26.7,
+    "yuseong": 60.3,
+    "dj_rehab": 72.8,
+    "davinci": 74.0,
+    "workrun": 68.3
+  },
+  "고창군": {
+    "honam": 45.5,
+    "gj365": 51.3,
+    "wooam": 57.1,
+    "dreamsol": 89.0,
+    "dj_wellness": 123.9
+  },
+  "부안군": {
+    "dreamsol": 69.4,
+    "honam": 73.0,
+    "gj365": 78.8,
+    "wooam": 84.6,
+    "yuseong": 98.9,
+    "dj_rehab": 111.4
+  },
+  "순창군": {
+    "wooam": 44.1,
+    "gj365": 46.9,
+    "dreamsol": 71.8,
+    "barun": 103.5
+  },
+  "임실군": {
+    "dreamsol": 42.8,
+    "gj365": 78.3,
+    "honam": 79.8,
+    "dj_wellness": 92.3,
+    "dj_rehab": 97.6
+  },
+  "여수시": {
+    "huiyeon": 112.0,
+    "wooam": 119.6,
+    "honam": 123.8,
+    "yeason": 147.3
+  },
+  "순천시": {
+    "wooam": 81.1,
+    "barun": 77.6,
+    "honam": 85.4,
+    "huiyeon": 86.9,
+    "dreamsol": 106.3
+  },
+  "목포시": {
+    "gj365": 74.1,
+    "dreamsol": 144.1,
+    "jeju_rehab": 324.3,
+    "barun": 169.4
+  },
+  "나주시": {
+    "honam": 41.4,
+    "gj365": 51.1,
+    "wooam": 54.5,
+    "dreamsol": 121.8,
+    "barun": 167.9,
+    "dj_wellness": 156.8
+  },
+  "광양시": {
+    "barun": 63.6,
+    "huiyeon": 72.8,
+    "gj365": 92.9,
+    "honam": 94.4,
+    "yeason": 108.2
+  },
+  "담양군": {
+    "wooam": 36.5,
+    "gj365": 39.3,
+    "honam": 40.7,
+    "dreamsol": 88.2,
+    "dj_wellness": 134.8,
+    "yuseong": 127.6
+  },
+  "함평군": {
+    "honam": 36.7,
+    "gj365": 46.4,
+    "wooam": 59.5,
+    "dreamsol": 119.0,
+    "yuseong": 148.4,
+    "dj_wellness": 155.7
+  },
+  "영광군": {
+    "honam": 59.5,
+    "gj365": 65.3,
+    "wooam": 71.1,
+    "dreamsol": 104.2,
+    "dj_rehab": 146.3
+  },
+  "장성군": {
+    "honam": 29.9,
+    "gj365": 35.8,
+    "wooam": 44.0,
+    "dreamsol": 80.3,
+    "yuseong": 108.0,
+    "dj_wellness": 115.2
+  },
+  "화순군": {
+    "wooam": 22.0,
+    "gj365": 35.9,
+    "honam": 45.4,
+    "barun": 137.6,
+    "huiyeon": 146.8
+  },
+  "보성군": {
+    "wooam": 76.1,
+    "gj365": 90.0,
+    "honam": 99.5,
+    "dreamsol": 138.0,
+    "barun": 109.3,
+    "huiyeon": 118.6
+  },
+  "장흥군": {
+    "wooam": 89.0,
+    "gj365": 103.0,
+    "honam": 95.0,
+    "dreamsol": 148.2,
+    "jeju_rehab": 282.4
+  },
+  "강진군": {
+    "wooam": 109.8,
+    "gj365": 101.2,
+    "honam": 91.5,
+    "jeju_rehab": 270.1,
+    "dreamsol": 169.0,
+    "barun": 140.3
+  },
+  "영암군": {
+    "honam": 79.5,
+    "gj365": 88.4,
+    "wooam": 86.6,
+    "dreamsol": 157.6,
+    "barun": 151.6
+  },
+  "무안군": {
+    "honam": 43.3,
+    "gj365": 53.0,
+    "dreamsol": 123.0,
+    "jeju_rehab": 329.8,
+    "yuseong": 152.4
+  },
+  "구미시": {
+    "gumi_top": 0.0,
+    "galul_gumi": 7.7,
+    "dg_gyeong": 39.7,
+    "k_hosp": 40.4,
+    "dhcu": 46.1,
+    "namsan": 52.4
+  },
+  "경주시": {
+    "bukuls": 69.5,
+    "better_dg": 82.2,
+    "mirae_dg": 76.9,
+    "namsan": 79.1,
+    "parkside": 72.3,
+    "dhcu": 77.6
+  },
+  "안동시": {
+    "bokju": 11.2,
+    "gb_rehab": 41.5,
+    "galul_gumi": 96.3,
+    "gumi_top": 96.7,
+    "dg_gyeong": 86.5
+  },
+  "경산시": {
+    "better_dg": 36.5,
+    "mirae_dg": 44.1,
+    "namsan": 38.5,
+    "dhcu": 48.9,
+    "dg_gyeong": 47.8,
+    "k_hosp": 53.4
+  },
+  "김천시": {
+    "galul_gumi": 38.4,
+    "gumi_top": 38.8,
+    "k_hosp": 61.4,
+    "dg_gyeong": 60.6,
+    "dhcu": 67.0,
+    "namsan": 73.3
+  },
+  "상주시": {
+    "galul_gumi": 52.4,
+    "gumi_top": 52.8,
+    "gb_rehab": 76.8,
+    "myeongpum": 76.8,
+    "bokju": 80.5,
+    "micro": 90.0
+  },
+  "문경시": {
+    "gb_rehab": 61.4,
+    "galul_gumi": 59.3,
+    "micro": 69.5,
+    "gumi_top": 59.7,
+    "myeongpum": 81.1,
+    "bokju": 84.8
+  },
+  "의성군": {
+    "myeongpum": 53.9,
+    "bokju": 59.1,
+    "gb_rehab": 55.3,
+    "galul_gumi": 78.5,
+    "gumi_top": 78.9,
+    "dg_gyeong": 66.4
+  },
+  "군위군": {
+    "galul_gumi": 57.1,
+    "gumi_top": 60.3,
+    "gb_rehab": 60.0,
+    "dhcu": 51.5,
+    "myeongpum": 60.1
+  },
+  "성주군": {
+    "gumi_top": 43.6,
+    "k_hosp": 34.8,
+    "galul_gumi": 43.2,
+    "dg_gyeong": 43.7,
+    "dhcu": 50.1,
+    "namsan": 56.4
+  },
+  "칠곡군": {
+    "gumi_top": 31.1,
+    "galul_gumi": 34.3,
+    "dg_gyeong": 28.2,
+    "k_hosp": 29.0,
+    "dhcu": 34.6,
+    "namsan": 41.0
+  },
+  "고령군": {
+    "k_hosp": 47.0,
+    "dg_gyeong": 49.4,
+    "dhcu": 51.3,
+    "namsan": 60.4,
+    "better_dg": 57.5,
+    "mirae_dg": 58.2
+  },
+  "예천군": {
+    "gb_rehab": 28.1,
+    "myeongpum": 47.5,
+    "bokju": 51.2,
+    "galul_gumi": 98.9,
+    "gumi_top": 99.3,
+    "micro": 97.4
+  },
+  "영주시": {
+    "bokju": 47.7,
+    "gb_rehab": 49.6,
+    "myeongpum": 48.6,
+    "micro": 83.2,
+    "galul_gumi": 101.0,
+    "gumi_top": 101.4
+  },
+  "창원시": {
+    "yeason": 2.3,
+    "laebom": 84.9,
+    "donga_ds": 60.4,
+    "work_bs": 60.7,
+    "mckenzie": 63.2,
+    "ksol": 60.4
+  },
+  "진주시": {
+    "barun": 12.5,
+    "huiyeon": 43.0,
+    "yeason": 70.8,
+    "laebom": 93.7,
+    "k_hosp": 105.0,
+    "better_dg": 115.6
+  },
+  "김해시": {
+    "donga_ds": 38.8,
+    "work_bs": 39.2,
+    "ksol": 29.5,
+    "parkside": 34.2,
+    "mckenzie": 38.4,
+    "bongsaeng": 43.8
+  },
+  "통영시": {
+    "huiyeon": 51.2,
+    "yeason": 91.4,
+    "barun": 58.0,
+    "donga_ds": 125.7,
+    "mckenzie": 128.8,
+    "work_bs": 126.1
+  },
+  "사천시": {
+    "barun": 44.0,
+    "huiyeon": 55.5,
+    "yeason": 90.8,
+    "laebom": 113.7,
+    "k_hosp": 125.0,
+    "donga_ds": 113.9
+  },
+  "밀양시": {
+    "laebom": 30.7,
+    "better_dg": 61.1,
+    "namsan": 64.8,
+    "dhcu": 68.9
+  },
+  "고성군(경남)": {
+    "huiyeon": 23.8,
+    "barun": 60.7,
+    "yeason": 74.4,
+    "laebom": 121.9,
+    "donga_ds": 122.1,
+    "work_bs": 122.5
+  },
+  "하동군": {
+    "barun": 59.6,
+    "huiyeon": 68.9,
+    "wooam": 109.5,
+    "gj365": 112.3,
+    "yeason": 104.2,
+    "honam": 113.7
+  },
+  "의령군": {
+    "barun": 46.7,
+    "huiyeon": 56.4,
+    "laebom": 81.4,
+    "yeason": 58.5,
+    "k_hosp": 92.7,
+    "better_dg": 103.2
+  },
+  "창녕군": {
+    "laebom": 40.2,
+    "k_hosp": 48.1,
+    "better_dg": 58.7,
+    "namsan": 61.6,
+    "dhcu": 52.4,
+    "mirae_dg": 59.4
+  },
+  "함안군": {
+    "huiyeon": 51.1,
+    "yeason": 44.5,
+    "barun": 41.4,
+    "laebom": 67.4,
+    "k_hosp": 78.7,
+    "better_dg": 89.2
+  },
+  "거제시": {
+    "yeason": 101.9,
+    "huiyeon": 72.4,
+    "donga_ds": 94.3,
+    "mckenzie": 106.5,
+    "work_bs": 104.0,
+    "bongsaeng": 108.6
+  },
+  "양산시": {
+    "parkside": 25.0,
+    "ksol": 33.0,
+    "bongsaeng": 47.0,
+    "work_bs": 42.3,
+    "mckenzie": 42.4,
+    "haeundae": 46.5
+  },
+  "영천시": {
+    "better_dg": 63.2,
+    "dhcu": 58.6,
+    "dg_gyeong": 57.5,
+    "k_hosp": 63.1
+  },
+  "청도군": {
+    "laebom": 54.2,
+    "better_dg": 46.4,
+    "mirae_dg": 53.3,
+    "namsan": 51.7,
+    "dhcu": 53.9,
+    "k_hosp": 58.4
+  }
+}
